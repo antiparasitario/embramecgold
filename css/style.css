@@ -29,7 +29,7 @@ a:hover, a:focus{color:#5173bd;}
 .has-margin-bottom-sm{margin-bottom:20px;}
 .has-margin-vertical{margin:20px 0 30px;}
 .has-margin-bottom{margin-bottom:40px;}
-.masthead{position:relative;padding:30px 15px;color:#FFF;text-align:center;text-shadow:0 1px 0 rgba(0,0,0,.1);background-color:#424ea4;background-image:url(../images/header_bg.jpg);background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;}
+.masthead{position:relative;padding:0px 15px;color:#FFF;text-align:center;text-shadow:0 1px 0 rgba(0,0,0,.1);background-color:#FFF;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;}
 .masthead .container{animation:fadein 2s;-moz-animation:fadein 2s;-webkit-animation:fadein 2s;-o-animation:fadein 2s;}
 .loading *{-webkit-animation:none !important;-moz-animation:none !important;-ms-animation:none !important;-o-animation:none !important;}
 @keyframes fadein{from{opacity:0;-webkit-transform:translateY(-30px);-moz-transform:translateY(-30px);transform:translateY(-30px);}
